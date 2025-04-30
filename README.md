@@ -198,3 +198,45 @@ Before any cleaning, transformation, or analysis can take place, it is critical 
 ### 4.2 Procurement Guidance
 - Clear, data-backed recommendations for aircraft acquisition
 - Risk assessment framework for future decisions
+
+# Data Visualizations
+
+![visualization](images/top_makes_accidents.png)
+![visualization](images/safety_trend_over_time.png)
+![visualization](images/safest_aircraft_makes.png)
+![visualization](images/injury_severity_distribution.png)
+![avisualization](images/country_make_performance.png)
+![visualization](images/category_fatal_accident_rates.png)
+![visualization](images/aircraft_survivability.png)
+![visualization](images/aircraft_categories_distribution.png)
+![visualization](images/accident_frequency_severity.png)
+
+# Key Aircraft Safety Recommendations for Wilson Airport
+
+## 1. Safest Aircraft Makes
+**Recommendation**: Prioritize **Grumman**, **Stinson**, and **Airbus** aircraft for procurement.
+* These manufacturers demonstrate the lowest fatal accident rates (2-4.3%)
+* Establish procurement guidelines favoring these proven safer options
+
+## 2. Aircraft Age Strategy
+**Recommendation**: Focus on aircraft manufactured after 2005.
+* Safety metrics improved dramatically around 2005
+* Models from 2008 onward show similar safety profiles, allowing cost-effective selection of slightly older aircraft
+
+## 3. Optimal Aircraft Categories
+**Recommendation**: Match categories to specific operations.
+* Use **Balloons** (10% fatal accident rate) for tourism
+* Select conventional **Airplanes** (18%) for commercial operations
+* Avoid **Weight-Shift** aircraft (34%) when possible
+
+## 4. Regional Considerations
+**Recommendation**: Select aircraft with proven performance in African conditions.
+* Prioritize makes with established maintenance networks in Kenya
+* Consider aircraft that perform well in similar climate/altitude conditions
+* Consult with regional operators about real-world performance
+
+## 5. Survivability Focus
+**Recommendation**: Prioritize aircraft like **Cessna** that protect occupants during accidents.
+* Consider both accident prevention and survivability metrics
+* Select models with demonstrated cabin integrity during incidents
+* Implement enhanced safety protocols for higher-risk aircraft when operationally necessary
