@@ -205,7 +205,7 @@ Before any cleaning, transformation, or analysis can take place, it is critical 
 ![visualization](images/safety_trend_over_time.png)
 ![visualization](images/safest_aircraft_makes.png)
 ![visualization](images/injury_severity_distribution.png)
-![avisualization](images/country_make_performance.png)
+![visualization](images/country_make_performance.png)
 ![visualization](images/category_fatal_accident_rates.png)
 ![visualization](images/aircraft_survivability.png)
 ![visualization](images/aircraft_categories_distribution.png)
