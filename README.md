@@ -6,7 +6,7 @@ Please fill out:
 * Scheduled project review date/time: 29/04/2025
 * Instructor name: George Kamundia
 * [Github repo URL](https://github.com/g-eez/dsc-phase-1-project.git)
-* [Tableau dashboard URL](https://public.tableau.com/app/profile/george.kariuki8016/viz/projectdashboard_17459601890850/Sheet4?publish=yes)
+* [Tableau dashboard URL](https://public.tableau.com/shared/M7RCYYYMM?:display_count=n&:origin=viz_share_link)
 
 # Software Requirements
 
