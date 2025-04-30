@@ -8,6 +8,14 @@ Please fill out:
 * [Github repo URL](https://github.com/g-eez/dsc-phase-1-project.git)
 * [Tableau dashboard URL](https://public.tableau.com/app/profile/george.kariuki8016/viz/projectdashboard_17459601890850/Sheet4?publish=yes)
 
+# Software Requirements
+
+- **Python 3.8+**
+- **Jupyter Notebook**
+- **Required Libraries**: pandas, numpy, matplotlib, seaborn
+- **Data**: Aviation_Data.csv
+- **System**: 4GB RAM minimum
+
 # 1. Business Understanding
 
 ## Project Context
